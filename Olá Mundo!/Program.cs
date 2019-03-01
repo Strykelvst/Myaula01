@@ -7,6 +7,8 @@ namespace Olá_Mundo_
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Bye World!");
+            Console.ReadKey();
         }
     }
 }
